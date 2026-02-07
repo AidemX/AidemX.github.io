@@ -6,9 +6,9 @@ It helps you to add memos to your video lessons during watching. So next time, y
 
 What's more, Aidem provides several convenient gestures to help you control video playing better:
 
-- Tap with two fingers to play video or pause playback;
-- Tap with three fingers to toggle playback controls' visibility;
-- Move horizontally with two fingers to play video backward/forward fast.
+- Tap with two fingers to play video or pause playback.  
+- Move horizontally with two fingers to play video backward/forward fast.  
+- Long-press the right side of the player with one finger to temporarily increase playback speed; while holding, slide up or down to fine-tune the speed.
 
 
 ### Main Features
